@@ -7,3 +7,5 @@
 //
 // IMPORTANT: you must replace <length of string> with the length of longString
 // using the .length property
+var longString ="thisisastringcalledlong"
+console.log("The length of longString is:" , longString.length)

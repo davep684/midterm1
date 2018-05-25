@@ -6,3 +6,10 @@
 //    Attention: There are now 3 passengers on the train!
 //
 // Then log countMessage to the console.
+
+
+var countMessage = "Attention: There are now 3 passengers on the train!"
+
+var numPassengers = 2
+
+console.log("Attention numPassengers are now ++")
